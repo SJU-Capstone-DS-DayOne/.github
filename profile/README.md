@@ -33,21 +33,33 @@ Development Period: 2024.03 ~ 2024.06
 - To implement the service, web page creation, back-end API development, data collection, and model development were carried out simultaneously.
 - Close collaboration was achieved using Notion, Git, and Discord, and the actual service was deployed using AWS.
 
+## Demo
+
+![GIFMaker_me](https://github.com/user-attachments/assets/6b4867b1-f008-41ce-9435-d15384b99b96)  
+You can see more details in the video below.
+
 ## Presentation
 
-[![Video Label](https://img.youtube.com/vi/nPBuqKDOywo/sddefault.jpg)](https://www.youtube.com/watch?v=nPBuqKDOywo)
+<a href="https://www.youtube.com/watch?v=nPBuqKDOywo">
+  <img src="https://img.youtube.com/vi/nPBuqKDOywo/sddefault.jpg" alt="Video Label" width="500" />
+</a>
 
 ## Awards
 
-🎉 1st palce in Creatvie Design Competition!!
+🎉 1st palce in Creatvie Design Competition (Capstone Design Project)!!
 
-<img src="https://github.com/user-attachments/assets/8f12fc84-94c9-49a4-b22d-d8aabcf863e3" width="600" height="800" />
+<img src="https://github.com/user-attachments/assets/8f12fc84-94c9-49a4-b22d-d8aabcf863e3" width="500" />
 
 ## Contacts
 
+<!--
 - Moonsoo Park: kd.mpark10@gmail.com
 - Taeho Kim: sjuds19@gmail.com
 - Seulbeen Je: powerjsv12@gmail.com
 - Jiseung Ryu: rjs8833@naver.com
 - Sungwoo Cho: seouk77@gmail.com
+-->
 
+| **Moonsoo Park** | **Taeho Kim** | **Seulbeen Je** | **Jiseung Ryu** | **Sungwoo Cho** |
+| :------: |  :------: | :------: | :------: | :------: |
+|kd.mpark10@gmail.com|sjuds19@gmail.com|powerjsv12@gmail.com|rjs8833@naver.com|seouk77@gmail.com|
