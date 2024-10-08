@@ -14,7 +14,7 @@ Development Period: 2024.03 ~ 2024.06
 
 | **Moonsoo Park** | **Taeho Kim** | **Seulbeen Je** | **Jiseung Ryu** | **Sungwoo Cho** |
 | :------: |  :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/m0onsoo" height=150 width=150> <br/> @m0onsoo](https://github.com/m0onsoo) | [<img src="https://avatars.githubusercontent.com/Taeho0818" height=150 width=150> <br/> @Taeho0818](https://github.com/Taeho0818) | [<img src="https://avatars.githubusercontent.com/powerjsv?" height=150 width=150> <br/> @powerjsv](https://github.com/powerjsv) | [<img src="https://avatars.githubusercontent.com/JiSeungRyu?" height=150 width=150> <br/> @JiSeungRyu](https://github.com/JiSeungRyu)| [<img src="https://avatars.githubusercontent.com/zosungwoo?" height=150 width=150> <br/> @zosungwoo](https://github.com/zosungwoo)|
+| [<img src="https://avatars.githubusercontent.com/m0onsoo" height=150 width=150> <br/> @m0onsoo](https://github.com/m0onsoo) | [<img src="https://avatars.githubusercontent.com/Taeho0818" height=150 width=150> <br/> @Taeho0818](https://github.com/Taeho0818) | [<img src="https://avatars.githubusercontent.com/powerjsv?" height=150 width=150> <br/> @powerjsv](https://github.com/powerjsv) | [<img src="https://avatars.githubusercontent.com/Ryuider-JS?" height=150 width=150> <br/> @Ryuider-JS](https://github.com/Ryuider-JS)| [<img src="https://avatars.githubusercontent.com/zosungwoo?" height=150 width=150> <br/> @zosungwoo](https://github.com/zosungwoo)|
 | Project Manager<br>AI&Data | AI&Data  | AI&Data  | Front-end | Back-end |
 
 </div>
